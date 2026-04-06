@@ -5,6 +5,7 @@ import StudioSection from './components/StudioSection';
 import Services from './components/Services';
 import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
+
  
 function App() {
   return (
