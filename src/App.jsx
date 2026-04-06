@@ -5,7 +5,7 @@ import StudioSection from './components/StudioSection';
 import Services from './components/Services';
 import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
-
+ 
 function App() {
   return (
     <div className="font-sans overflow-x-hidden text-gray-900 selection:bg-orange-200">
