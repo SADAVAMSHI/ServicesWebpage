@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 html {
-  scroll-behavior: smooth; /* This is the magic smooth scroll line! */
+  scroll-behavior: smooth; 
 }
 
 body {
