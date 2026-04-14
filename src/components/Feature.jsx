@@ -33,3 +33,4 @@ export default function Feature({ title, description, reverse }) {
       </div>
     </section>
   );
+}
